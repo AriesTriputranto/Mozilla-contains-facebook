@@ -1,2 +1,13 @@
 # https://github.com/Mozilla/
- CCO by-SA lisensi Mozilla 2.0
+
+# https://mozilla.firefox.com
+
+# https://www.mozilla.com/user/medsos/
+
+# https://firefox.com/user/lisensi/
+
+# https://wikipedia.com/Wiki/Mozilla
+
+---* github Copyright protected international 
+standard CCO version
+ CCO by-SA lisensi Apache 2.0
