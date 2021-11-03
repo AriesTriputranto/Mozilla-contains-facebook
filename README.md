@@ -6,7 +6,7 @@
 
 # https://firefox.com/user/lisensi/
 
-# https://wikipedia.com/Wiki/Mozilla
+# https://en.wikipedia.org/Wiki/Mozilla
 
 ---* github Copyright protected international 
 standard CCO version
