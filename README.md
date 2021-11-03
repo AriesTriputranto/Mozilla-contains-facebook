@@ -1,8 +1,8 @@
 # https://github.com/Mozilla/
 
-# https://mozilla.firefox.com
+# https://www.firefox.com
 
-# https://www.mozilla.com/user/medsos/
+# https://www.mozilla.com/user
 
 # https://firefox.com/user/lisensi/
 
