@@ -2,7 +2,7 @@
 
 # https://www.firefox.com
 
-# https://www.mozilla.com/user
+# https://www.mozilla.org/user/
 
 # https://firefox.com/user/lisensi/
 
